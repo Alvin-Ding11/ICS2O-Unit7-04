@@ -6,7 +6,7 @@ let day = 0
 function fees () {
   age = document.getElementById('age').value
   age = parseInt(age)
-  // This sets takes the input from the text box and turns it into a numerical value for the program 
+  // This sets takes the input from the text box and turns it into a numerical value for the program
 
   day = document.getElementById('day').value
   // This sets the value of the inputed day to a variable
